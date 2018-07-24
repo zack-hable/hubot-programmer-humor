@@ -1,0 +1,21 @@
+{
+  "name": "hubot-programmer-humor",
+  "description": "Feeling down?  Take a break with some programmer humor from Reddit!",
+  "version": "1.0.0",
+  "author": "Zack Hable <zack@cobaltdevteam.com>",
+  "license": "MIT",
+  "keywords": "hubot, hubot-scripts, jokes, humor, programmer-humor",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zack-hable/hubot-programmer-humor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zack-hable/hubot-programmer-humor/issues"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "main": "index.coffee"
+}
