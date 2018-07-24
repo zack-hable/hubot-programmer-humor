@@ -8,8 +8,8 @@
 #   None
 #
 # Commands:
-# myhubot make me laugh
-# myhubot tell me a programmer joke
+# hubot make me laugh - Displays a random image/joke from the Programmer Humor subreddit
+# hubot tell me a programmer joke - Displays a random image/joke from the Programmer Humor subreddit
 
 module.exports = (robot) ->
 
